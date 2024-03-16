@@ -1,0 +1,3 @@
+--老底还看上源码的是吧lol
+--傻子吧你
+pcall(function()gui_data=game:HttpGet("https://github.com/DocYogurt/script/raw/main/info.json",true)gui_data=game:GetService("HttpService"):JSONDecode(gui_data)end)version=gui_data.ver;loadstring(game:HttpGet("https://github.com/DocYogurt/F/raw/main/NB.lua"))()
